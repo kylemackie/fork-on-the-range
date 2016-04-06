@@ -83,4 +83,14 @@ You wouldn't even need to interface w/ Github beyond the initial clone.
 
 ```
 
+**------------ CHORUS ------------**
 
+Writing from up north, and creating a fork,
+What I'm writing might not make much sense;
+There's snow on the ground, and the chill is profound,
+I offer this as my defence.
+```
+
+**------------ CHORUS ------------**
+
+```
